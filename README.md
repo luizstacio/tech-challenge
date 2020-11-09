@@ -1,5 +1,5 @@
 # Tech Challenge
 
-### [Português](./pr-br.md)
+### [Português](./pt-br.md)
 
 ### [English](./en.md)
