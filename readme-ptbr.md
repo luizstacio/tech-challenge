@@ -2,14 +2,14 @@
 
 ## Objetivo
 
-O objectivo do nosso teste é conhecer seu nível de proeficienca com a stack JavaScript, que utilizamos em nossos projetos. Note que durante intrevistas podemos fazer
-perguntas sobre suas escolhes nesse projeto.
+O objetivo do nosso teste é conhecer seu nível de proficiência com a stack JavaScript, que utilizamos em nossos projetos. Note que durante entrevistas podemos fazer
+Perguntas sobre suas escolhas nesse projeto.
 
 ## Resumo
 
-Contrua uma aplicação FullStack simples utilizando JavaScript. (Back-End and Front-End)
+Construa uma aplicação FullStack simples utilizando JavaScript. (Back-End and Front-End)
 
-Todo o código deve ser enviado para um unico repositório *privado* no GitHub, adicione o usuario @luizstacio como contribuidor.
+Todo o código, deve ser enviado para um único repositório *privado* no GitHub, adicione o usuário @luizstacio como contribuídor.
 
 ## História
 
@@ -17,12 +17,12 @@ Como um dono de mercado, eu preciso ter controle sobre o estoque da minha loja.
 Para isso eu preciso uma maneira de criar, atualizar e deletar os itens do estoque.
 Para ter um bom controle de estoque, eu preciso ter no mínimo `código de barras, nome, quantidade e preço` de cada produto.
 
-Seria ótimo para mim ter uma maneira de diferenciar produtos com menos de 100 items no estoque, diretamento no meu painel de controle,
+Seria ótimo para mim ter uma maneira de diferenciar produtos com menos de 100 itens no estoque, diretamente no meu painel de controle,
 para que seja possível comprar mais desses itens.
 
 ## Back-End
 
-Crie uma API usando Node.JS, utilize os frameworks que preferir. A aplicação deve utilizar REST ou GraphQL. A escolha é sua! =)
+Crie uma API usando Node.JS e utilize os frameworks que preferir. A aplicação deve utilizar REST ou GraphQL. A escolha é sua! =)
 
 ## Front-End
 
