@@ -2,20 +2,17 @@
 
 ## Objetivo
 
-O objetivo do nosso teste é conhecer seu nível de proficiência com a stack JavaScript, que utilizamos em nossos projetos. Note que durante entrevistas podemos fazer
-Perguntas sobre suas escolhas nesse projeto.
+O objetivo do nosso teste é conhecer seu nível de proficiência com a stack JavaScript, que utilizamos em nossos projetos. Note que durante entrevistas podemos fazer perguntas sobre suas escolhas nesse projeto.
 
 ## Resumo
 
 Construa uma aplicação FullStack simples utilizando JavaScript. (Back-End and Front-End)
 
-Todo o código, deve ser enviado para um único repositório *privado* no GitHub, adicione o usuário @luizstacio como contribuídor.
+Todo o código deve ser enviado para um único repositório *privado* no GitHub. Adicione o usuário @luizstacio como contribuidor.
 
 ## História
 
-Como um dono de mercado, eu preciso ter controle sobre o estoque da minha loja.
-Para isso eu preciso uma maneira de criar, atualizar e deletar os itens do estoque.
-Para ter um bom controle de estoque, eu preciso ter no mínimo `código de barras, nome, quantidade e preço` de cada produto.
+Como um dono de mercado, eu preciso ter controle sobre o estoque da minha loja. Para isso eu preciso de uma maneira de criar, atualizar e deletar os itens do estoque. Para ter um bom controle de estoque, eu preciso ter no mínimo `código de barras, nome, quantidade e preço` de cada produto.
 
 Seria ótimo para mim ter uma maneira de diferenciar produtos com menos de 100 itens no estoque, diretamente no meu painel de controle,
 para que seja possível comprar mais desses itens.
@@ -38,4 +35,4 @@ Faça da maneira que você acredite ser rápido e inteligente, damos valor á:
 - Confiabilidade
 - Comunicação
 
-### Se tiver perguntas, me pergunte.
+### Se tiver questionamentos, me pergunte.
